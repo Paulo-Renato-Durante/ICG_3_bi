@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgbmUo1JEgi2NW/5hIXc4DS0CA/9G8Frcb64nFw6/68xyS7X27n4vmKJi8rm4cmefj6rUVDnTamDiVpORm5Sng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mates\\Documents\\ICG3BIM-main\\projetoICG3bim\\projetoICG3bim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mates\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mates\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mates\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mates\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
